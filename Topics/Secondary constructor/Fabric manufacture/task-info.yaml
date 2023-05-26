@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Fabric(var color: String) {
+        var pattern: String = "none"
+        var patternColor: String = "none"
+        init {
+            println("$color fabric is created")
+        }
+
+        constructor() {
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10749#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 26 May 2023 09:35:25 UTC"
+record: -1
+submission_language: kotlin

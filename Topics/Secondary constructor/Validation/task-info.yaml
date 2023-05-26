@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: The secondary constructor is mandatory part of the class
+- text: "If the class has a primary constructor, secondary constructors must delegate\
+    \ to the primary constructor"
+- text: You can use the same signature for secondary constructors
+- text: Accessing members of the class with "this" is necessary
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20609#comment
+status: Solved
+record: -1
+local_check: false

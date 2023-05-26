@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "Yes"
+- text: "No, because member and extension functions must have different names"
+- text: "No, because parameters of functions with the same name must not intersect"
+- text: "No, because functions with the same name aren't allowed"
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6623#comment
+status: Solved
+record: -1
+local_check: false

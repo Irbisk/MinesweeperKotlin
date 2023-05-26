@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Declare an extension function" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Definition" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Delegation" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Fridge" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Last digit" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Overloading" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Overriding extension function" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Barista problem" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Creating news" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Errors and where to find them" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Spot the error" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Validation" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
